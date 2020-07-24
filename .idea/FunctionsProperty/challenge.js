@@ -49,7 +49,7 @@
                 sc++;
 
             }
-            return score;
+            return sc;
         }
     }
 

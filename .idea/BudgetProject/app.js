@@ -48,8 +48,18 @@ var budgetController = (function() {
         totals:{
             exp: 0,
             inc: 0
-        }
+        },
+        budget:0,
+        percentage: -1
 
+    };
+
+    var calculateTotal = function(type){
+      var sum = 0;
+      data.allItems[type].forEach(function(cur){
+         sum += cur.value;
+      });
+      data.totals[type] = sum;
     };
 
     return {
@@ -78,6 +88,32 @@ var budgetController = (function() {
 
         },
 
+        calculateBudget: function(){
+            //cal total income and expenses
+            calculateTotal('exp');
+            calculateTotal('inc');
+            //cal the budget: income - expense
+            data.budget = data.totals.inc - data.totals.exp;
+
+            if(data.totals.inc > 0){
+                data.percentage = Math.round((data.total.exp / data.total.inc) * 100);
+
+            }else{
+                data.percentage = -1;
+            }
+
+
+        },
+
+        getBudget:  function(){
+          return {
+              budget: data.budget,
+              totalExp: data.totals.inc,
+              totalExp: data.totals.exp,
+              percentage: data.percentage
+          }
+        },
+
         testing: function(){
             console.log(data);
         }
@@ -102,7 +138,7 @@ var UIController = (function(){
             return {
                 type: document.querySelector(DOMstrings.intputType).value,//will be inc or exp
                 description: document.querySelector(DOMstrings.inputDescription).value,
-                value: document.querySelector(DOMstrings.inputValue).value
+                value: parseFloat(document.querySelector(DOMstrings.inputValue).value)
             };
         },
 
@@ -130,6 +166,22 @@ var UIController = (function(){
         },
 
         clearFields: function(){
+            var fields;
+
+//not return an arrays but a list
+            //convert the list to the array
+            fields = document.querySelectorAll(DOMstrings.inputDescription + ', ' +
+                DOMstrings.inputValue);
+
+            //call the slice method use the call method
+            fieldsArr = Array.prototype.slice.call(fields);
+
+            fieldsArr.forEach(function(current, index, array){
+                //clean the field
+                current.value = "";
+
+            });
+            fieldsArr[0].focus();
 
         },
 
@@ -158,7 +210,18 @@ var controller = (function(budgetCtrl, UICtrl){
             }
         });
 
-    }
+    };
+
+    var updateBudget = function(){
+        //1. calculate the budget
+        budgetCtrl.calculateBudget();
+
+        //2. return the budget
+        var budget = budgetCtrl.getBudget();
+
+        //3. display the budget on the ui
+        console.log(budget);
+    };
 
 
     var ctrlAddItem = function(){
@@ -166,14 +229,21 @@ var controller = (function(budgetCtrl, UICtrl){
         var input, newItem;
         // 1. get the filed input data
         input = UIController.getinput();
-        //2. add the item to the budget controller
-        newItem = budgetCtrl.addItem(input.type, input.description, input.value);
 
-        //3. add the item to the UI
-        UICtrl.addListItem(newItem, input.type);
-        //4. calculate the budget
+        if(input.description !== ""  && !isNaN(input.value) && input.value > 0){
+            //2. add the item to the budget controller
+            newItem = budgetCtrl.addItem(input.type, input.description, input.value);
 
-        //display the budget on the UI
+            //3. add the item to the UI
+            UICtrl.addListItem(newItem, input.type);
+            //4. calculate the budget
+            UICtrl.clearFields();
+
+            //5.calculate and update budget
+            updateBudget();
+        }
+
+
 
     };
 

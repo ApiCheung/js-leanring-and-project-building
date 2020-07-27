@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2f81cc4-7834-4a8c-96fe-6d4235979ac7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ES6/StringES6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BudgetProject/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/BudgetProject/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BudgetProject/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/BudgetProject/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BudgetProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/BudgetProject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BudgetProject/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/BudgetProject/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/DOMPra.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/DOMPra.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/dice-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/dice-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/dice-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/dice-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/dice-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/dice-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/dice-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/dice-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/dice-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/dice-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/dice-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/dice-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DOMPrac/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOMPrac/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FunctionsProperty/BindCallApply.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionsProperty/BindCallApply.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FunctionsProperty/Closure.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionsProperty/Closure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FunctionsProperty/FunctionsReturningFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionsProperty/FunctionsReturningFunctions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FunctionsProperty/ImmediatlyInvokeFunction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionsProperty/ImmediatlyInvokeFunction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FunctionsProperty/PssingFunctionAsArgument.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionsProperty/PssingFunctionAsArgument.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FunctionsProperty/challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionsProperty/challenge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JSObject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/JSObject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JSObject/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/JSObject/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/js-leanring-and-project-building.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/js-leanring-and-project-building.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="EsmeeZhang &lt;esmezh42@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ep5IsIegPrErAHeOZJdnfpphaa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/BudgetProject" />
+      <recent name="$PROJECT_DIR$/.idea/DOMPrac" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f81cc4-7834-4a8c-96fe-6d4235979ac7" name="Default Changelist" comment="" />
+      <created>1595005616406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595005616406</updated>
+      <workItem from="1595005620527" duration="3512000" />
+      <workItem from="1595252292127" duration="4190000" />
+      <workItem from="1595334504808" duration="5977000" />
+      <workItem from="1595443471496" duration="8694000" />
+      <workItem from="1595519987852" duration="672000" />
+      <workItem from="1595532067055" duration="16195000" />
+      <workItem from="1595714460401" duration="5696000" />
+      <workItem from="1595775442346" duration="9990000" />
+      <workItem from="1595852454370" duration="4997000" />
+      <workItem from="1595858156684" duration="909000" />
+      <workItem from="1595866459376" duration="321000" />
+    </task>
+    <task id="LOCAL-00001" summary="game">
+      <created>1595018516335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595018516335</updated>
+    </task>
+    <task id="LOCAL-00002" summary="game">
+      <created>1595256530846</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595256530846</updated>
+    </task>
+    <task id="LOCAL-00003" summary="game">
+      <created>1595258398860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595258398860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="game">
+      <created>1595367212419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595367212419</updated>
+    </task>
+    <task id="LOCAL-00005" summary="game">
+      <created>1595454992296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595454992296</updated>
+    </task>
+    <task id="LOCAL-00006" summary="game">
+      <created>1595628686503</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595628686503</updated>
+    </task>
+    <task id="LOCAL-00007" summary="game">
+      <created>1595723844432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595723844432</updated>
+    </task>
+    <task id="LOCAL-00008" summary="game">
+      <created>1595793802455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595793802455</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="game" />
+    <option name="LAST_COMMIT_MESSAGE" value="game" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="153" key="#Project_Structure" timestamp="1595005786995">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="604" y="153" key="#Project_Structure/56.23.1736.1097@56.23.1736.1097" timestamp="1595005786995" />
+    <state x="721" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595529111339">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="721" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.23.1736.1097@56.23.1736.1097" timestamp="1595529111339" />
+    <state x="732" y="183" key="CommitChangelistDialog2" timestamp="1595793802299">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="698" y="163" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1595367212314" />
+    <state x="732" y="183" key="CommitChangelistDialog2/56.23.1736.1097@56.23.1736.1097" timestamp="1595793802299" />
+    <state x="617" y="210" key="SettingsEditor" timestamp="1595623135928">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="617" y="210" key="SettingsEditor/56.23.1736.1097@56.23.1736.1097" timestamp="1595623135928" />
+    <state x="1121" y="284" width="670" height="676" key="search.everywhere.popup" timestamp="1595719337698">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="1121" y="284" width="670" height="676" key="search.everywhere.popup/56.23.1736.1097@56.23.1736.1097" timestamp="1595719337698" />
+  </component>
+</project>

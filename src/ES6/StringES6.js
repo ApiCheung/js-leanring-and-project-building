@@ -10,3 +10,5 @@ console.log(`This is ${firstName} ${lastName}. he was born in${yearOfBirth} .tod
 const n =`${firstName} ${lastName}`;
 n.startsWith('J');//true
 n.endsWith('th');//true
+n.includes(' ');
+`${firstName}`.repeat(5);

@@ -9,20 +9,57 @@
 <body>
 <h1>Asynchronous JavaScript</h1>
 <script>
-    const second = () =>{
-        setTimeout(()=>{
-            console.log('Async hey there');
-
-        }, 2000);
-        console.log('second');
-    }
-    const first = () => {
-        console.log('Hey there!');
-        second();
-        console.log('the end');
-    }
+    // const second = () =>{
+    //     setTimeout(()=>{
+    //         console.log('Async hey there');
+    //
+    //     }, 2000);
+    //     console.log('second');
+    // }
+    // const first = () => {
+    //     console.log('Hey there!');
+    //     second();
+    //     console.log('the end');
+    // }
 // hey there the end async hey there
-    first();
+    //first();
+    // function getRecipe(){
+    //     setTimeout(()=>{
+    //         const recipeID = [532, 993,553,452];
+    //         console.log(recipeID);
+    //
+    //         setTimeout((id) => {
+    //             const recipe ={title:'fresh tomato', publisher:'jonas'};
+    //             console.log('${id}');
+    //
+    //             setTimeout(publisher => {
+    //                 const recipe={title:'italian',publisher:'jojo'};
+    //                 console.log('${publisher}')
+    //             }, 1500, recipe.publisher);
+    //
+    //         }, 1000, recipeID[2]);
+    //
+    //     }, 1500);
+    // }
+    // getRecipe();
+
+    //result come from outside to the inside
+
+    const getIDs = new Promise((resolve, reject) => {
+        setTimeout(()=>{
+            resolve([223,514,146,532]);
+        }, 1500);
+    });
+
+    const getRecipe = recID = >
+    getIDs
+        .then((IDs)=>{
+        console.log(IDs);
+    })
+
+    .catch(error=>{
+       console.log(error);
+    });
 </script>
 </body>
 </html>

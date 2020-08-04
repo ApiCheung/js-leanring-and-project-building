@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f81cc4-7834-4a8c-96fe-6d4235979ac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ES6/ES6Challenge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AynchronousJS/asynchronous.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ES6/ClassesES6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ES6/ClassesES6.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -96,7 +95,8 @@
       <workItem from="1596251203070" duration="509000" />
       <workItem from="1596333035218" duration="229000" />
       <workItem from="1596403735845" duration="6105000" />
-      <workItem from="1596478971642" duration="3788000" />
+      <workItem from="1596478971642" duration="4302000" />
+      <workItem from="1596569325247" duration="1236000" />
     </task>
     <task id="LOCAL-00001" summary="game">
       <created>1595018516335</created>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596420907453</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="game">
+      <created>1596485875943</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596485875943</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,12 +202,12 @@
       <screen x="56" y="23" width="1736" height="1097" />
     </state>
     <state x="721" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.23.1736.1097@56.23.1736.1097" timestamp="1595529111339" />
-    <state x="706" y="183" key="CommitChangelistDialog2" timestamp="1596420907298">
+    <state x="706" y="183" key="CommitChangelistDialog2" timestamp="1596485875797">
       <screen x="56" y="23" width="1736" height="1097" />
     </state>
     <state x="698" y="163" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1595367212314" />
     <state x="705" y="183" key="CommitChangelistDialog2/54.23.1738.1097@54.23.1738.1097" timestamp="1596223670549" />
-    <state x="706" y="183" key="CommitChangelistDialog2/56.23.1736.1097@56.23.1736.1097" timestamp="1596420907298" />
+    <state x="706" y="183" key="CommitChangelistDialog2/56.23.1736.1097@56.23.1736.1097" timestamp="1596485875797" />
     <state x="617" y="210" key="SettingsEditor" timestamp="1595623135928">
       <screen x="56" y="23" width="1736" height="1097" />
     </state>

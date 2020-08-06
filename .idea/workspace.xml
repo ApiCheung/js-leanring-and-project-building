@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2f81cc4-7834-4a8c-96fe-6d4235979ac7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AynchronousJS/asynchronous.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/AynchronousJS/asynchronous.html" afterDir="false" />
-    </list>
+    <list default="true" id="d2f81cc4-7834-4a8c-96fe-6d4235979ac7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +93,7 @@
       <workItem from="1596333035218" duration="229000" />
       <workItem from="1596403735845" duration="6105000" />
       <workItem from="1596478971642" duration="4302000" />
-      <workItem from="1596569325247" duration="3308000" />
+      <workItem from="1596569325247" duration="3344000" />
     </task>
     <task id="LOCAL-00001" summary="game">
       <created>1595018516335</created>
@@ -189,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596577096324</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="game">
+      <created>1596584105231</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596584105231</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,12 +213,12 @@
       <screen x="56" y="23" width="1736" height="1097" />
     </state>
     <state x="721" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.23.1736.1097@56.23.1736.1097" timestamp="1596577082581" />
-    <state x="706" y="183" key="CommitChangelistDialog2" timestamp="1596577096192">
+    <state x="706" y="183" key="CommitChangelistDialog2" timestamp="1596584105137">
       <screen x="56" y="23" width="1736" height="1097" />
     </state>
     <state x="698" y="163" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1595367212314" />
     <state x="705" y="183" key="CommitChangelistDialog2/54.23.1738.1097@54.23.1738.1097" timestamp="1596223670549" />
-    <state x="706" y="183" key="CommitChangelistDialog2/56.23.1736.1097@56.23.1736.1097" timestamp="1596577096192" />
+    <state x="706" y="183" key="CommitChangelistDialog2/56.23.1736.1097@56.23.1736.1097" timestamp="1596584105137" />
     <state x="617" y="210" key="SettingsEditor" timestamp="1595623135928">
       <screen x="56" y="23" width="1736" height="1097" />
     </state>

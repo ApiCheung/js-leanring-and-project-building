@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2f81cc4-7834-4a8c-96fe-6d4235979ac7" name="Default Changelist" comment="" />
+    <list default="true" id="d2f81cc4-7834-4a8c-96fe-6d4235979ac7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AynchronousJS/asynchronous.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/AynchronousJS/asynchronous.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +97,8 @@
       <workItem from="1596403735845" duration="6105000" />
       <workItem from="1596478971642" duration="4302000" />
       <workItem from="1596569325247" duration="3344000" />
+      <workItem from="1596746316675" duration="732000" />
+      <workItem from="1596834213452" duration="1724000" />
     </task>
     <task id="LOCAL-00001" summary="game">
       <created>1595018516335</created>

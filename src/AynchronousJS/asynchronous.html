@@ -49,13 +49,41 @@
         setTimeout(()=>{
             resolve([223,514,146,532]);
         }, 1500);
+        setTimeout(()=>{
+            reject([553,443], 1000);
+        })
     });
 
-    const getRecipe = recID = >
+    const getRelated = publisher => {
+        return new Promise((resolve, reject) => {
+            setTimeout(pub => {
+
+            }, 1500, publisher);
+        });
+    }
+
+
+    const getRecipe = recID => {
+        return new Promise((resolve, reject)=>{
+            setTimeout(ID => {
+                const recipe ={title:'fresh tomato', publisher:'jonas'};
+                resolve('${ID}: ${recipe.title');
+
+            }, 1500, recID);
+
+
+
+        });
+    }
+
     getIDs
         .then((IDs)=>{
         console.log(IDs);
+         return getRecipe(IDs[2]);
     })
+        .then(recipe=>{
+            console.log(recipe);
+        })
 
     .catch(error=>{
        console.log(error);

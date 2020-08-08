@@ -98,7 +98,7 @@
       <workItem from="1596478971642" duration="4302000" />
       <workItem from="1596569325247" duration="3344000" />
       <workItem from="1596746316675" duration="732000" />
-      <workItem from="1596834213452" duration="1724000" />
+      <workItem from="1596834213452" duration="4038000" />
     </task>
     <task id="LOCAL-00001" summary="game">
       <created>1595018516335</created>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596584105231</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="game">
+      <created>1596840954558</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596840954558</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,12 +225,12 @@
       <screen x="56" y="23" width="1736" height="1097" />
     </state>
     <state x="721" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.23.1736.1097@56.23.1736.1097" timestamp="1596577082581" />
-    <state x="706" y="183" key="CommitChangelistDialog2" timestamp="1596584105137">
+    <state x="706" y="183" key="CommitChangelistDialog2" timestamp="1596840954257">
       <screen x="56" y="23" width="1736" height="1097" />
     </state>
     <state x="698" y="163" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1595367212314" />
     <state x="705" y="183" key="CommitChangelistDialog2/54.23.1738.1097@54.23.1738.1097" timestamp="1596223670549" />
-    <state x="706" y="183" key="CommitChangelistDialog2/56.23.1736.1097@56.23.1736.1097" timestamp="1596584105137" />
+    <state x="706" y="183" key="CommitChangelistDialog2/56.23.1736.1097@56.23.1736.1097" timestamp="1596840954257" />
     <state x="617" y="210" key="SettingsEditor" timestamp="1595623135928">
       <screen x="56" y="23" width="1736" height="1097" />
     </state>
